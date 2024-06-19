@@ -1,0 +1,9 @@
+diff a/Assets/Scripts/AsyncLoader.cs b/Assets/Scripts/AsyncLoader.cs	(rejected hunks)
+@@ -25,7 +25,6 @@
+ 
+     public void LoadLeverBtn()
+     {
+-        if (a == 0)
+             StartCoroutine(LoadLevelASync(2));
+     }
+ 
